@@ -3,6 +3,7 @@
 Welcome to my portfolio repository! This repository was created to showcase projects that I have completed since beginning my C.S. degree program with Oregon State University. Each folder a unique project. Summary descriptions may be found below. If you have any feedback or suggestions please e-mail me at [phillitr@oregonstate.edu](mailto:phillitr@oregonstate.edu). Thank you for exploring my work.
 
 Trevor Phillips
+
 Senior Computer Science Major at Oregon State University
 
 ### Current Projects:
