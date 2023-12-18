@@ -5,11 +5,11 @@ Welcome to my portfolio repository! This repository was created to showcase proj
 Trevor Phillips
 Senior Computer Science Major at Oregon State University
 
-## Current Projects:
-- [String Primitives and Macros](<1 - String Primitives and Macros>)(Assembly)
+### Current Projects:
+- [String Primitives and Macros](<1 - String Primitives and Macros>) (Assembly)
     - Reads user number strings and converts to float and integer values.
 
-- [Small Shell](<2 - Small Shell>)(C)
+- [Small Shell](<2 - Small Shell>) (C)
     - A command line interface in C.
     - Support for background processes, special paramaters, redirection and signal handling.
 
